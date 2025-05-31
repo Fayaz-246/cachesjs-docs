@@ -2,7 +2,7 @@
 
 ## Constructor
 
-The constructor takes of type of [ITimedCacheConstructorOps](/types#ITimedCacheConstructorOps)
+The constructor takes of type of [ITimedCacheConstructorOps](/interfaces#itimedcacheconstructorops)
   
 ### Example
 

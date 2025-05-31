@@ -26,7 +26,13 @@ export default defineConfig({
           { text: "CachedFunction", link: "/cachedfunction" },
         ],
       },
-      {text:"Extras",items: [{text:"Types", link: "/types"}]} 
+      {
+        text: "Extras",
+        items: [
+          { text: "Types", link: "/types" },
+          { text: "Interfaces", link: "/interfaces" },
+        ],
+      },
     ],
 
     socialLinks: [
