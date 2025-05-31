@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ag as t}from"./chunks/framework.C78-raJP.js";const y=JSON.parse('{"title":"Types","description":"","frontmatter":{},"headers":[],"relativePath":"types.md","filePath":"types.md"}'),n={name:"types.md"};function k(l,s,p,e,r,d){return h(),a("div",null,s[0]||(s[0]=[t("",6)]))}const E=i(n,[["render",k]]);export{y as __pageData,E as default};
