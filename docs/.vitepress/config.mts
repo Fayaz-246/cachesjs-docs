@@ -6,6 +6,10 @@ export default defineConfig({
   description: "The official documentation for CachesJS",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+    },
+
     nav: [
       { text: "Home", link: "/" },
       { text: "NPM", link: "https://www.npmjs.com/package/cachesjs" },
