@@ -1,0 +1,3 @@
+# ITimedCacheConstructorOps
+
+# ICachedFunctionConstructorOps

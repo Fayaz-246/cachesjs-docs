@@ -5,21 +5,19 @@ layout: home
 hero:
   name: "CachesJS"
   text: "The best way to add caching to JS/TS"
-# tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About
+      link: /about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Getting Started
+      link: /getting-started
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Fast
+    details: Just install the npm package and your done!
+  - title: Easy
+    details: It's as easy as importing and creating a new cache.
+  - title: Simple
+    details: CachesJS uses classes to make the UX as easy as possible
 ---
-

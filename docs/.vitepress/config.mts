@@ -8,17 +8,25 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "NPM", link: "https://www.npmjs.com/package/cachesjs" },
     ],
 
     sidebar: [
       {
-        text: "Examples",
+        text: "Guide",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "About", link: "/about" },
+          { text: "Getting Started", link: "/getting-started" },
         ],
       },
+      {
+        text: "Classes",
+        items: [
+          { text: "TimedCache", link: "/timedcache" },
+          { text: "CachedFunction", link: "/cachedfunction" },
+        ],
+      },
+      {text:"Extras",items: [{text:"Types", link: "/types"}]} 
     ],
 
     socialLinks: [
