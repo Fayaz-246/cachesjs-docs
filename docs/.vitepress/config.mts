@@ -39,6 +39,11 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/Fayaz-246/cachesjs" },
       { icon: "discord", link: "https://discord.gg/5zYxdy4Qad" },
     ],
+
+    footer: {
+      message: "Made By Fayaz | Released under the MIT License",
+      copyright: "Copyright © 2025 Fayaz",
+    },
   },
   cleanUrls: true,
 });
