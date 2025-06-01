@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,ag as r}from"./chunks/framework.C78-raJP.js";const u=JSON.parse('{"title":"About CachesJS","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"};function c(n,a,i,d,l,h){return o(),e("div",null,a[0]||(a[0]=[r("",5)]))}const _=t(s,[["render",c]]);export{u as __pageData,_ as default};
